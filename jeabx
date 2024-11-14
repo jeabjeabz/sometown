@@ -148,3 +148,5 @@ tgls:Toggle(
     end
 )
 
+serv:Channel("ใช้แล้วโดนแบนเรื่องของพ่อมึง")
+
